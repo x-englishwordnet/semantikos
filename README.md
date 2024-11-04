@@ -1,7 +1,7 @@
-# OEWN releases for semantikos #
+# Semantikos releases #
 
 
-## OEWN 2024-1
+## Semantikos 2024-1
 
 ### data
 
